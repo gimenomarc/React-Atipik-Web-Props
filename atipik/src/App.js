@@ -39,7 +39,7 @@ function App() {
         <Pizza 
           fotoName='funghi'
           title='Funghi'
-          description='TTomate, mozzarella, jamón york y champiñones.'
+          description='Tomate, mozzarella, jamón york y champiñones.'
           price='13.50'
         />
       </div>

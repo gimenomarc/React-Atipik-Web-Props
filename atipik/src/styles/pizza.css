@@ -1,0 +1,10 @@
+.container-pizza {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.container-text {
+    width: 400px;
+}
+
